@@ -1,0 +1,4 @@
+include ':document-file'
+include ':document-microservice'
+
+rootProject.name = 'document-solution'
