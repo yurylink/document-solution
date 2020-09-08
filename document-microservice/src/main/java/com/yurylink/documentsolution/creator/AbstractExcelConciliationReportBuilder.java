@@ -49,7 +49,7 @@ public abstract class AbstractExcelConciliationReportBuilder<T> {
 	protected abstract void buildBody();
 
 	protected void buildHeader() {
-		builder.addTitle(getTitleText()).addSubTitle(getSubTitleText()).addHeaderColumns(getHeader());
+		builder.addTitle(getTitleText()).addSubTitle(getSubTitleText()).addHeaderColumns(getHeader()).newRow();
 	}
 
 	public ByteArrayInputStream build() throws IOException {

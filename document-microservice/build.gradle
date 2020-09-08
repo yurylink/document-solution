@@ -37,6 +37,7 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
     implementation project(':document-file')
+    implementation project(':document-dto')
 
     implementation 'org.apache.cxf:cxf-rt-rs-client:3.2.6'
     implementation 'org.beanio:beanio:2.1.0'

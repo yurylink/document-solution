@@ -34,6 +34,7 @@ repositories {
 dependencies {
     compile project(':document-microservice')
     compile project(':document-file')
+    compile project(':document-dto')
 }
 
 

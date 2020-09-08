@@ -1,0 +1,21 @@
+{
+  "header": "Header1,Header2,Header3,Header4",
+  "body": [
+    "value11,value12,value13,value14",
+    "value21,value22,value23,value24",
+    "value31,value32,value33,value34",
+    "lineseparator",
+    "value41,value42,value43,value44",
+    "value51,value52,value53,value54",
+    "value61,value62,value63,value64",
+    "lineseparator",
+    "value71,value72,value73,value74",
+    "value81,value82,value83,value84",
+    "value91,value92,value93,value94",
+    "lineseparator",
+    "value101,value102,value103,value104",
+    "value111,value112,value113,value114",
+    "value121,value122,value123,value124"
+  ],
+  "trailer": "Trailer1,Trailer2,Trailer3,Trailer4"
+}
